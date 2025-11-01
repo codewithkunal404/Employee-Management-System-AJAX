@@ -35,3 +35,39 @@ A modern **Employee Registration and Listing System** built using **PHP**, **jQu
 | **HTML5 + CSS3** | Frontend & UI Design |
 
 ---
+
+---
+
+## 📁 Folder Structure
+```bash
+project-root/
+│
+├── ajax/
+│ ├── Create.php
+│ └── fetchEmployees.php
+│
+├── jquery-3.7.1.min.js
+├── index.html
+└── README.md
+
+```
+
+---
+
+## Database
+
+- Create a new database named employee_db
+
+- Run the following SQL:
+
+```sql
+CREATE TABLE employees (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100),
+  dob DATE,
+  email VARCHAR(100),
+  department VARCHAR(100),
+  position VARCHAR(100),
+  salary DECIMAL(10,2)
+);
+```
