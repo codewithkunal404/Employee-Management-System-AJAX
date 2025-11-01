@@ -6,10 +6,13 @@ A modern **Employee Registration and Listing System** built using **PHP**, **jQu
 
 ## 🖼️ Preview
 
-![Employee Registration Form Screenshot](preview.png)  
+<p align="center">
+  <img src="preview1.png" alt="Employee Registration Form Screenshot" style="width:60%; max-width:400px;">
+</p>
+<p align="center">
+  <img src="preview2.png" alt="Employee Registration Form Screenshot" style="width:60%; max-width:400px;">
+</p>
 *(Add your project screenshot here)*
-
----
 
 ## 🧩 Features
 
